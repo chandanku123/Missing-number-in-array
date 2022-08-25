@@ -1,0 +1,15 @@
+/Users/chandankumarpandey/Desktop/Development/MissingElement/bin/Debug/net6.0/MissingElement
+/Users/chandankumarpandey/Desktop/Development/MissingElement/bin/Debug/net6.0/MissingElement.deps.json
+/Users/chandankumarpandey/Desktop/Development/MissingElement/bin/Debug/net6.0/MissingElement.runtimeconfig.json
+/Users/chandankumarpandey/Desktop/Development/MissingElement/bin/Debug/net6.0/MissingElement.dll
+/Users/chandankumarpandey/Desktop/Development/MissingElement/bin/Debug/net6.0/MissingElement.pdb
+/Users/chandankumarpandey/Desktop/Development/MissingElement/obj/Debug/net6.0/MissingElement.csproj.AssemblyReference.cache
+/Users/chandankumarpandey/Desktop/Development/MissingElement/obj/Debug/net6.0/MissingElement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chandankumarpandey/Desktop/Development/MissingElement/obj/Debug/net6.0/MissingElement.AssemblyInfoInputs.cache
+/Users/chandankumarpandey/Desktop/Development/MissingElement/obj/Debug/net6.0/MissingElement.AssemblyInfo.cs
+/Users/chandankumarpandey/Desktop/Development/MissingElement/obj/Debug/net6.0/MissingElement.csproj.CoreCompileInputs.cache
+/Users/chandankumarpandey/Desktop/Development/MissingElement/obj/Debug/net6.0/MissingElement.dll
+/Users/chandankumarpandey/Desktop/Development/MissingElement/obj/Debug/net6.0/refint/MissingElement.dll
+/Users/chandankumarpandey/Desktop/Development/MissingElement/obj/Debug/net6.0/MissingElement.pdb
+/Users/chandankumarpandey/Desktop/Development/MissingElement/obj/Debug/net6.0/MissingElement.genruntimeconfig.cache
+/Users/chandankumarpandey/Desktop/Development/MissingElement/obj/Debug/net6.0/ref/MissingElement.dll
